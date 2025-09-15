@@ -1,17 +1,20 @@
 # BTVNtuan2
 1. Creating a course:
-<img width="1913" height="867" alt="Screenshot 2025-09-15 122112" src="https://github.com/user-attachments/assets/839c4b25-e7cb-449a-8a5f-3e1b2bc55e84" />
+<img width="1903" height="903" alt="Screenshot 2025-09-15 194802" src="https://github.com/user-attachments/assets/4c76369e-889f-43fe-b802-ea9ee33994ab" />
 
 2. Reading cousrse:
 
-<img width="1907" height="863" alt="Screenshot 2025-09-15 122424" src="https://github.com/user-attachments/assets/710f849a-5e06-4d88-bc5c-2e7192ca45a2" />
+<img width="1796" height="901" alt="Screenshot 2025-09-15 194938" src="https://github.com/user-attachments/assets/120344f5-3b4d-48b2-8a56-4b1c44b39e64" />
+<img width="1786" height="876" alt="Screenshot 2025-09-15 194943" src="https://github.com/user-attachments/assets/55dd6392-79cc-4ea7-92c1-65cf3991c540" />
 
-<img width="1918" height="869" alt="Screenshot 2025-09-15 122432" src="https://github.com/user-attachments/assets/fca086c2-867d-474c-ae81-290919253628" />
 
-3. Updating course successfully:
-<img width="1914" height="866" alt="Screenshot 2025-09-15 122448" src="https://github.com/user-attachments/assets/8653336c-9a71-466e-b8e7-1d41b7045902" />
+3. Updating course:
+<img width="1899" height="904" alt="Screenshot 2025-09-15 195012" src="https://github.com/user-attachments/assets/6ef36b78-7114-4078-804e-242d0b7a5657" />
+4. Course updated successfully:
 
-4. Deleting course:
+<img width="1837" height="221" alt="Screenshot 2025-09-15 195030" src="https://github.com/user-attachments/assets/4ec8f490-9a8e-4f9b-9e0b-b92ef765fccc" />
 
-<img width="1917" height="863" alt="Screenshot 2025-09-15 122514" src="https://github.com/user-attachments/assets/6f444330-a58c-4f79-a63f-a5ebd310914f" />
+5. Deleting course:
+
+<img width="1728" height="662" alt="Screenshot 2025-09-15 195040" src="https://github.com/user-attachments/assets/1be0cc0c-3d54-4b3c-8ea1-c0395ba33c52" />
 
